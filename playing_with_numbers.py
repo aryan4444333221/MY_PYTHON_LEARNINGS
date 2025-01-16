@@ -105,14 +105,14 @@
 # 0.7000000000000002
 
 # one is negative other is positive
-a = -4.3
-b = 3.7
-print(a + b)
-print(a - b)
-print(a * b)
-print(a / b)
-print(a // b)
-print(a % 2)
+# a = -4.3
+# b = 3.7
+# print(a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)
+# print(a // b)
+# print(a % 2)
 #output
 # -0.5999999999999996
 # -8.0
